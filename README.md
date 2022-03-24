@@ -13,5 +13,6 @@ Mobile view:
 ![mobile](https://user-images.githubusercontent.com/82762243/159931016-eb14f7c8-359a-4838-97ca-f175c1952f4b.png)
 
 ## Here's the URL of the final landing page: 
+https://basic-website-rs.netlify.app/
 
 
